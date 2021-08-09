@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is C68E-D9B5
+
+ Directory of C:\Users\aahmed200\OneDrive - DXC Production\Desktop\Git project
+
+08/09/2021  12:32 PM    <DIR>          .
+08/09/2021  12:32 PM    <DIR>          ..
+08/09/2021  12:27 PM               385 test1.txt
+08/09/2021  12:32 PM                 0 test2.txt
+               2 File(s)            385 bytes
+               2 Dir(s)  133,295,923,200 bytes free
